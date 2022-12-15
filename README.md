@@ -1,4 +1,7 @@
 # enter-app-dev
 My first repository
-De Gana, Seth Raemon M.
-Sex Education
+{
+  "firstName": "Seth",
+  "lastName": "De Gana",
+  "movieSeries": "Sex Education"
+}
